@@ -1,0 +1,19 @@
+This software contains unmodified binary distributions of:
+
+jVSTwRapper (http://jvstwrapper.sourceforge.net) License: LGPL
+
+Hibernate (http://www.hibernate.org) License: LGPL v2.1
+
+log4j	(http://logging.apache.org/log4j) License: Apache 2.0
+
+slf4j (http://www.slf4j.org) License: MIT 
+
+H2 database engine (http://www.h2database.com/),
+which is dual licensed and available under a modified version of the MPL 1.1 (Mozilla Public License)
+or under the (unmodified) EPL 1.0 (Eclipse Public License).
+An original copy of the license agreement can be found at: http://www.h2database.com/html/license.html
+
+
+The copy and paste icons are from http://www.visualpharm.com License: Creatice Commons
+
+All other icons are from the KDE Crystal project (http://www.everaldo.com/crystal) License: LGPL
